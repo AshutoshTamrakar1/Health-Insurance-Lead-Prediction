@@ -8,6 +8,11 @@ test_YCcRUnU.csv
 sample_submission_QrCyCoT.csv
 my_sub_*.csv
 
+# CatBoost and Model artifacts
+catboost_info/
+*.bin
+*.model
+
 # Python & Jupyter
 __pycache__/
 *.py[cod]
